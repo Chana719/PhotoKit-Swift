@@ -6,7 +6,7 @@
 ------
 
 
-![demo内容](./PhotoKit.gif)
+![demo内容](https://github.com/Chana719/PhotoKit-Swift/blob/master/PhotoKit-Swift/PhotoKit.gif)
 
 
 
